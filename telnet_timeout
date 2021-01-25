@@ -1,0 +1,1 @@
+for i in `cat meterIPs`; do echo quit | timeout --signal=9 5 telnet -6 $i 4058; done
