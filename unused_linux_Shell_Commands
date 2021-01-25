@@ -1,0 +1,5 @@
+untill
+shuff
+timeout --signal=9 7  EG -- echo quit | timeout --signal=9 7 telnet -6 $i 4060;
+passwd --stdin
+/dev/urandom/
